@@ -1,5 +1,5 @@
 {
-    "name": "jackiedo/dotenv-editor",
+    "name": "kodeartisan/dotenv-editor",
     "description": "The .env file editor tool for Laravel 5.8+",
     "license": "MIT",
     "keywords": ["laravel", "dotenv", "dotenv-editor"],
@@ -10,9 +10,9 @@
         }
     ],
     "require": {
-        "illuminate/console": "^10.0|^9.0|^8.0|^7.0|^6.0|^5.8",
-        "illuminate/contracts": "^10.0|^9.0|^8.0|^7.0|^6.0|^5.8",
-        "illuminate/support": "^10.0|^9.0|^8.0|^7.0|^6.0|^5.8",
+        "illuminate/console": "^11.0|^9.0|^8.0|^7.0|^6.0|^5.8",
+        "illuminate/contracts": "^11.0|^9.0|^8.0|^7.0|^6.0|^5.8",
+        "illuminate/support": "^11.0|^9.0|^8.0|^7.0|^6.0|^5.8",
         "jackiedo/path-helper": "^1.0"
     },
     "autoload": {
